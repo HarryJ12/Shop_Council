@@ -30,6 +30,8 @@ Instead of giving a flat recommendation, five AI agents argue through the tradeo
 
 The product is designed for retailers and marketplaces where shoppers need more than search results. It can be configured for a specific vendor, such as a furniture retailer or a broad marketplace, and uses that vendor's product details to explain dimensions, room-fit confidence, delivery windows, assembly details, reviews, customer photos, and product-specific buying context.
 
+Live demo: https://www.loom.com/share/3a2ffa40206f4f64a4d9caa4b11aa23e
+
 ---
 
 ## Key Features
